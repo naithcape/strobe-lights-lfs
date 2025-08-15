@@ -1,0 +1,28 @@
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.exe
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.deps.json
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.runtimeconfig.json
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.dll
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.pdb
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.AssemblyInfoInputs.cache
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.AssemblyInfo.cs
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.csproj.CoreCompileInputs.cache
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.dll
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\refint\LFS Strobe TK by Anton.dll
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.pdb
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.genruntimeconfig.cache
+C:\Users\nekon\Desktop\antonstrobe\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\ref\LFS Strobe TK by Anton.dll
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.AssemblyInfoInputs.cache
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.AssemblyInfo.cs
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.csproj.CoreCompileInputs.cache
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.dll
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\refint\LFS Strobe TK by Anton.dll
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.pdb
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.exe
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.deps.json
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.runtimeconfig.json
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.dll
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\bin\Debug\net8.0-windows\LFS Strobe TK by Anton.pdb
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\LFS Strobe TK by Anton.genruntimeconfig.cache
+C:\Users\nekon\Desktop\LFS Strobe By Anton\LFS Strobe TK by Anton\obj\Debug\net8.0-windows\ref\LFS Strobe TK by Anton.dll
